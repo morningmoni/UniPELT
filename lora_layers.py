@@ -1,7 +1,7 @@
-#  ------------------------------------------------------------------------------------------
-#  Copyright (c) Microsoft Corporation. All rights reserved.
-#  Licensed under the MIT License (MIT). See LICENSE in the repo root for license information.
-#  ------------------------------------------------------------------------------------------
+# Copyright (c) Microsoft Corporation. All rights reserved.
+# Copyright (c) Meta Platforms, Inc. All rights reserved.
+# This source code is licensed under the license found in the LICENSE file in
+# the root directory of this source tree.
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
